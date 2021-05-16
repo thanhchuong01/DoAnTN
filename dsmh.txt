@@ -1,0 +1,7 @@
+3
+N01
+Triet hoc
+N02
+Ly thuyet may tinh
+N03
+Toan
